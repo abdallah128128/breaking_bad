@@ -1,6 +1,7 @@
 # breaking_bad
 
 A new Flutter project.
+An entertainment project that contains all the characters of the famous series breaking_bad .. and information about each of these characters.
 
 ## Getting Started
 
